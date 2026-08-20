@@ -10,8 +10,6 @@
   <a href="mailto:anupambhartiab@gmail.com?subject=iOS%20project%20conversation">Email</a>
   &nbsp;·&nbsp;
   <a href="https://apps.apple.com/in/developer/anupam-bharti/id1638887019">App Store</a>
-  &nbsp;·&nbsp;
-  <a href="#code-you-can-inspect">Code sample</a>
 </p>
 
 ---
@@ -58,14 +56,6 @@ I have built native iOS products since 2020 through independent releases, consul
 - **GUVI · Technical education** — Created structured Swift, Xcode, and iOS app-development material covering debugging, UI, navigation, and memory management.
 
 Other App Store work includes [Certify](https://apps.apple.com/in/app/certify-by-acviss/id1519576615), [K-ONN Rewards](https://apps.apple.com/in/app/k-onn-rewards/id1373673295), [The CarePal](https://apps.apple.com/in/app/the-carepal/id6745544405), and [UpTodd](https://apps.apple.com/in/app/uptodd-parenting-baby-food/id1558333792).
-
-## Code you can inspect
-
-### [AI Story Buddy ↗](https://github.com/anupambharti/Anupam-Peblo)
-
-**SwiftUI · AVFoundation · Offline-first**
-
-A narrated story experience paired with a JSON-driven quiz, haptics, and accessibility—built without third-party dependencies. The repository includes the product decisions, architecture, and implementation details behind the experience.
 
 ## Engineering toolkit
 
