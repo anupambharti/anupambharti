@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://anupambharti.com">
-    <img src="./assets/profile-banner.jpg" width="760" alt="Anupam Bharti — Senior iOS Developer. Native iOS, made human.">
+    <img src="./assets/profile-banner.jpg" width="560" alt="Anupam Bharti — Senior iOS Developer. Native iOS, made human.">
   </a>
 </p>
 
